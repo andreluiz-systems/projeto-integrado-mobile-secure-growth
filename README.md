@@ -141,14 +141,14 @@ Mensagens no formato `tipo: descrição curta`:
 |---|---|
 | André Luiz Pereira de Sousa | Líder do grupo (Tech Lead) |
 | João Vitor Oliveira Miranda | Desenvolvimento |
+| João Pedro Pereira Albuquerque | Desenvolvimento |
+| Raí Lugano Louseiro Angelim | Desenvolvimento |
+| Alexandre Firmo Pereira Silva | Desenvolvimento |
+| Luiz Eduardo Ferreira Trindade | Desenvolvimento |
+| Daniel do Nascimento Pires | Desenvolvimento |
+| Vitor Hugo Pereira de Oliveira | Desenvolvimento |
 | Mathaus | Desenvolvimento |
-| Daniel | Desenvolvimento |
 | Vinicius Lima | Desenvolvimento |
-| Rai Lugano | Desenvolvimento |
-| Alex | Desenvolvimento |
-| Luiz Eduardo | Desenvolvimento |
-| Vitor Hugo | Desenvolvimento |
-| João Pedro | Desenvolvimento |
 
 ## Contexto acadêmico
 
