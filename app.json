@@ -27,7 +27,8 @@
           "image": "./assets/images/logo.png",
           "imageWidth": 120
         }
-      ]
+      ],
+      "expo-sharing"
     ],
     "experiments": {
       "typedRoutes": true,
